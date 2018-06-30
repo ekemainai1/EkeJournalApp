@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">JournalApp</string>
+    <string name="app_background">Journal App SignIn Background</string>
+    <string name="insert_email">Insert email</string>
+    <string name="google_signin_icon">Google SignIn</string>
+    <string name="button_signin">SignIn</string>
+    <string name="button_signup">SignUp</string>
+    <string name="journalapp">JournalApp</string>
+    <string name="register">Register</string>
+    <string name="name">Username</string>
+    <string name="specify_username">Username</string>
+    <string name="loading">Loading…</string>
+    <string name="Setting">Setting</string>
+    <string name="textviewUser">User</string>
+    <string name="email">Email</string>
+    <string name="comments">Your Thoughts and Feelings</string>
+    <string name="express_thoghts">express thoughts</string>
+    <string name="send_comment">send comment</string>
+    <string name="list">list of items</string>
+    <string name="singout">SingOut</string>
+    <string name="edit_post">Edit post</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="save">Save</string>
+</resources>

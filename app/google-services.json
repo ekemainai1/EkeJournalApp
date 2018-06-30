@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "636303604241",
+    "firebase_url": "https://ekejournalapp-1529919103234.firebaseio.com",
+    "project_id": "ekejournalapp-1529919103234",
+    "storage_bucket": "ekejournalapp-1529919103234.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:636303604241:android:fb7a0525e2413163",
+        "android_client_info": {
+          "package_name": "com.example.ekemini.journalapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "636303604241-255n7dc2o4ih9qah85683pklehu8totm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ekemini.journalapp",
+            "certificate_hash": "a2774715fd370bfb9d36b99029e6dcc2b248e793"
+          }
+        },
+        {
+          "client_id": "636303604241-8lnerm2ulajtj5n5l4eo0m95t0ef26d8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBI6pa7rKIfVeCXAyUD-bAqIKpOUlPd-QY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "636303604241-8lnerm2ulajtj5n5l4eo0m95t0ef26d8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
