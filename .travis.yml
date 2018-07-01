@@ -20,11 +20,18 @@ after_success:
 - ./upload-apk.sh 
 script: 
 - chmod +x ./gradlew
+branches:
+  only:
+  - master
 deploy:
   provider: releases
-  api_key: "T0G8bFyKEqUY1KnMS0wtRQ"
+  api_key:
+    secure: [key]
+  file_glob: true
   file: "JournalApp/app/build/outputs/apk/debug/app-debug.apk"
   skip_cleanup: true
   on:
+    repo: ekemainai1/EkeJournalApp
     tags: true
-    repo: ekemainai1/repo
+    all_branches: true
+    
