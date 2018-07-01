@@ -20,4 +20,3 @@ after_success:
 - ./upload-apk.sh 
 script: 
 - chmod +x ./gradlew
-- skip_cleanup: "true"
