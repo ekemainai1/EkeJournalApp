@@ -15,7 +15,7 @@ This sample uses the Gradle build system. To build this project, use the "gradle
 
 # Screenshots
 
-![screen1](https://user-images.githubusercontent.com/39128782/42138167-d2fd0926-7d70-11e8-9a53-f1ae61ddb383.png)
+![screen1](https://user-images.githubusercontent.com/39128782/42138167-d2fd0926-7d70-11e8-9a53-f1ae61ddb383.png) ![screen2](https://user-images.githubusercontent.com/39128782/42138189-202d7b86-7d71-11e8-9ce4-9ea8a5bcfaf4.PNG)
 
 # Installing
 
