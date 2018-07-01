@@ -21,8 +21,9 @@ after_success:
 script: 
 - chmod +x gradlew
 branches:
-  only:
-  - master
+    only:
+    - master
+    - /v\d+\.\d+[a-z]/
 deploy:
   provider: releases
   api_key:
