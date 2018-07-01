@@ -1,71 +1,62 @@
-# Google 2018 African Scholarship Challenge 2.0 Project Sample App
+# Google African Scholarship Challenge 2.0 Project Sample App
+
+The goal of this sample is to show how to implement an a simple journal app where users can log in with their google account and other email providers in order to pen down thier thoughts and feelings. These posts are stored in a firebase realtime database where users can retrieve their post to viewing, editing, updating and deleting.
+
+# Getting Started
+
+This sample uses the Gradle build system. To build this project, use the "gradlew build" command or use "Import Project" in Android Studio.
+
+# Prerequisites
+
+- Android SDK 27
+- Android Build Tools v27.0.3
+- Android Support Repository
+- Gradle 4.4
+
+# Screenshots
 
 
-One Paragraph of project description goes here
 
-Getting Started
+# Installing
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+- Go to your android studio file menu and select New menu, select Import sample or project from the flyout and after successful import     into the platform, sync the project and build an apk which you can  deploy on emulator or android machine live system.
 
-Prerequisites
+# Running the tests
 
-What things you need to install the software and how to install them
+Presently, they are no active test available on the project
 
-Give examples
-Installing
-
-A step by step series of examples that tell you how to get a development env running
-
-Say what the step will be
-
-Give the example
-And repeat
-
-until finished
-End with an example of getting some data out of the system or using it for a little demo
-
-Running the tests
-
-Explain how to run the automated tests for this system
-
-Break down into end to end tests
-
-Explain what these tests test and why
-
-Give an example
-And coding style tests
-
-Explain what these tests test and why
-
-Give an example
-Deployment
+# Deployment
 
 Add additional notes about how to deploy this on a live system
 
-Built With
+# Built With
 
-Dropwizard - The web framework used
+Googel - Dependency Management
 Maven - Dependency Management
-ROME - Used to generate RSS Feeds
-Contributing
 
-Please read CONTRIBUTING.md for details on our code of conduct, and the process for submitting pull requests to us.
 
-Versioning
+# Authors
 
-We use SemVer for versioning. For the versions available, see the tags on this repository.
+Ekemini Ini Stephen
 
-Authors
+# Acknowledgments
 
-Billie Thompson - Initial work - PurpleBooth
-See also the list of contributors who participated in this project.
+- Google
+- Slack android-dev channel
+- Slack ad-group-18 channel
 
-License
+# Support
 
-This project is licensed under the MIT License - see the LICENSE.md file for details
+Google+ Community: https://plus.google.com/communities/105153134372062985968
+Stack Overflow: http://stackoverflow.com/questions/tagged/android
+If you've found an error in this sample, please file an issue
 
-Acknowledgments
+# License
 
-Hat tip to anyone whose code was used
-Inspiration
-etc
+Copyright 2017 Google Inc.
+
+Licensed to the Apache Software Foundation (ASF) under one or more contributor license agreements. See the NOTICE file distributed with this work for additional information regarding copyright ownership. The ASF licenses this file to you under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at
+
+http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License.
