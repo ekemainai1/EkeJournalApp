@@ -15,7 +15,7 @@ This sample uses the Gradle build system. To build this project, use the "gradle
 
 # Screenshots
 
-![alt tag](https://github.com/ekemainai1/EkeJournalApp/commit/cf265b3f3117772b0c0036c41b6be30cc20d5649#diff-e5879b6d8614204de74fe8774cd83123)
+![screen1](https://user-images.githubusercontent.com/39128782/42138167-d2fd0926-7d70-11e8-9a53-f1ae61ddb383.png)
 
 # Installing
 
